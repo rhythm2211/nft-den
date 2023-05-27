@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/nft-den/static/css/main.aea62683.css",
+    "main.js": "/nft-den/static/js/main.267dee3b.js",
+    "static/media/WalletConnect-Symbol.png": "/nft-den/static/media/WalletConnect-Symbol.6493fad21f0c7567a6a1.png",
+    "static/media/MetaMask-Logo.png": "/nft-den/static/media/MetaMask-Logo.6c6b2e8dc25f92eccbc8.png",
+    "static/media/wallet.png": "/nft-den/static/media/wallet.cd012f40b4ad29cd4a4a.png",
+    "static/media/list.png": "/nft-den/static/media/list.2c192296e30a3e43034e.png",
+    "static/media/horizontal_blue.png": "/nft-den/static/media/horizontal_blue.8e1b6d7eda467188b233.png",
+    "index.html": "/nft-den/index.html",
+    "main.aea62683.css.map": "/nft-den/static/css/main.aea62683.css.map",
+    "main.267dee3b.js.map": "/nft-den/static/js/main.267dee3b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aea62683.css",
+    "static/js/main.267dee3b.js"
+  ]
+}
